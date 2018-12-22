@@ -5,4 +5,4 @@ NIM   : 2016150033
 
 QR Code <br>
 <br>
-<img src="QR_weather.png">
+<img src="QR_weather.PNG">
