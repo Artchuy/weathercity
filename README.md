@@ -1,7 +1,7 @@
 # Tugas_2_cuaca
 
-Nama  : Lyi Fahmi Yuniati Zahroh <br>
-NIM   : 2015150095 <br>
+Nama  : Dwi purnomo
+NIM   : 2016150033
 
 QR Code <br>
 <br>
